@@ -9,23 +9,23 @@
 
 ## Git & GitHub
 
-- [] Create local branch
-- [] Add changes to staging
-- [] Commit changes
-- [] Push branch to remote
-- [] Create pull request
+- [ ] Create local branch
+- [ ] Add changes to staging
+- [ ] Commit changes
+- [ ] Push branch to remote
+- [ ] Create pull request
 
 ## Contribution
 
-- [] Create an issue
-- [] Create a remote branch for issue
-- [] Fetch remote issue from local
-- [] Switch or checkout branch
-- [] Make code changes
-- [] Add changes to staging
-- [] Commit changes
-- [] Push changes to remote branch
-- [] Create pull request to main
+- [ ] Create an issue
+- [ ] Create a remote branch for issue
+- [ ] Fetch remote issue from local
+- [ ] Switch or checkout branch
+- [ ] Make code changes
+- [ ] Add changes to staging
+- [ ] Commit changes
+- [ ] Push changes to remote branch
+- [ ] Create pull request to main
 
 # Getting Started with Create React App
 
