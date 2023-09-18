@@ -1,3 +1,32 @@
+# Joanna Yuen Portfolio - 2023
+
+## Set up
+
+- [x] Install Node.js
+- [x] Install XCode CL Tools
+- [x] Install VSCode
+- [x] Clone Repository
+
+## Git & GitHub
+
+- [] Create local branch
+- [] Add changes to staging
+- [] Commit changes
+- [] Push branch to remote
+- [] Create pull request
+
+## Contribution
+
+- [] Create an issue
+- [] Create a remote branch for issue
+- [] Fetch remote issue from local
+- [] Switch or checkout branch
+- [] Make code changes
+- [] Add changes to staging
+- [] Commit changes
+- [] Push changes to remote branch
+- [] Create pull request to main
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
