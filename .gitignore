@@ -24,3 +24,6 @@ yarn-error.log*
 
 # tailwind
 public/output.css
+
+# storybook
+storybook-static/
