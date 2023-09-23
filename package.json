@@ -21,7 +21,7 @@
     "watch:storybook": "npx tailwindcss -i ./src/App.css -o ./public/output.css --watch",
     "build:storybook": "npx tailwindcss -i ./src/App.css -o ./public/output.css",
     "storybook": "watch:storybook & storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "build:storybook && storybook build"
   },
   "eslintConfig": {
     "extends": [
